@@ -37,3 +37,14 @@
  .navbar-dark {
      background-color: indigo;
  }
+ .table-responsive {
+
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+ }
+.tab-content {
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
